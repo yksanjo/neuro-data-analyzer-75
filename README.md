@@ -1,5 +1,12 @@
 # neuro-data-analyzer-75
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/neuro-data-analyzer-75/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/neuro-data-analyzer-75/actions)
+![License](https://img.shields.io/github/license/yksanjo/neuro-data-analyzer-75)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/neuro-data-analyzer-75)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/neuro-data-analyzer-75)
+
 ## Detailed Description
 
 neuro-data-analyzer-75 is maintained as an industry-grade software project with production-ready engineering practices.  
